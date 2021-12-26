@@ -10,4 +10,3 @@ Distributed under the WTFPL License. See `LICENSE` for more information.
 ## Contact
 
 * [LevX](https://twitter.com/LevxApp/)
-``
