@@ -1,31 +1,31 @@
 {
-  overrides: [
+  "overrides": [
     {
-      files: [
+      "files": [
         "contracts/**/*.sol"
       ],
-      options: {
-        printWidth: 120,
-        tabWidth: 4,
-        useTabs: false,
-        singleQuote: false,
-        bracketSpacing: false,
-        explicitTypes: "always"
+      "options": {
+        "printWidth": 120,
+        "tabWidth": 4,
+        "useTabs": false,
+        "singleQuote": false,
+        "bracketSpacing": false,
+        "explicitTypes": "always"
       }
     },
     {
-      files: [
+      "files": [
         "**/*.js",
         "**/*.ts"
       ],
-      options: {
-        printWidth: 120,
-        tabWidth: 4,
-        useTabs: false,
-        singleQuote: false,
-        bracketSpacing: true,
-        arrowParens: "avoid",
-        explicitTypes: "always"
+      "options": {
+        "printWidth": 120,
+        "tabWidth": 4,
+        "useTabs": false,
+        "singleQuote": false,
+        "bracketSpacing": true,
+        "arrowParens": "avoid",
+        "explicitTypes": "always"
       }
     }
   ]
