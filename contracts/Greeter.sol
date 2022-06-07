@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: WTFPL
 
-pragma solidity 0.8.11;
+pragma solidity 0.8.14;
 
 import "hardhat/console.sol";
 

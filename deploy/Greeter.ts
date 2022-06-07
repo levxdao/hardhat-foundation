@@ -4,7 +4,7 @@ export default async ({ getNamedAccounts, deployments }) => {
 
     await deploy("Greeter", {
         from: deployer,
-        args: [],
+        args: ["Greeting"],
         log: true,
     });
 };

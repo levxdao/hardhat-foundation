@@ -12,6 +12,12 @@
   },
   "license": "WTFPL",
   "author": "LevX <team@levx.io>",
+  "files": [
+    "abis",
+    "contracts",
+    "deployments",
+    "typechain"
+  ],
   "scripts": {
     "build": "rimraf abis artifacts cache coverage typechain && hardhat compile",
     "console": "hardhat console",
